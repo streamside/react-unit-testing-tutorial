@@ -1,2 +1,4 @@
 .idea
 react-unit-testing-tutorial.iml
+node_modules
+coverage
